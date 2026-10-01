@@ -29,11 +29,11 @@
 
 <br/>
 
-[![Stars](https://img.shields.io/github/stars/AAYUSH412/Real-Estate-Website?style=social)](https://github.com/AAYUSH412/Real-Estate-Website)
-[![Forks](https://img.shields.io/github/forks/AAYUSH412/Real-Estate-Website?style=social)](https://github.com/AAYUSH412/Real-Estate-Website/fork)
-[![License](https://img.shields.io/github/license/AAYUSH412/Real-Estate-Website?color=green)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/AAYUSH412/Real-Estate-Website?color=orange)](https://github.com/AAYUSH412/Real-Estate-Website/commits)
-[![Issues](https://img.shields.io/github/issues/AAYUSH412/Real-Estate-Website)](https://github.com/AAYUSH412/Real-Estate-Website/issues)
+[![Stars](https://img.shields.io/github/stars/chevellapraneethreddy/AuraRealty?style=social)](https://github.com/chevellapraneethreddy/AuraRealty)
+[![Forks](https://img.shields.io/github/forks/chevellapraneethreddy/AuraRealty?style=social)](https://github.com/chevellapraneethreddy/AuraRealty/fork)
+[![License](https://img.shields.io/github/license/chevellapraneethreddy/AuraRealty?color=green)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/chevellapraneethreddy/AuraRealty?color=orange)](https://github.com/chevellapraneethreddy/AuraRealty/commits)
+[![Issues](https://img.shields.io/github/issues/chevellapraneethreddy/AuraRealty)](https://github.com/chevellapraneethreddy/AuraRealty/issues)
 
 </div>
 
@@ -459,8 +459,8 @@ flowchart LR
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AAYUSH412/Real-Estate-Website.git
-cd Real-Estate-Website
+git clone https://github.com/chevellapraneethreddy/AuraRealty.git
+cd AuraRealty
 
 # Install dependencies per app:
 cd backend && npm install
@@ -879,23 +879,11 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 👨‍💻 Author
 
-<div align="center">
+chevella praneeth reddy
 
-  <img src="https://avatars.githubusercontent.com/AAYUSH412" width="100" style="border-radius:50%"/>
-
-### Aayush Vaghela
-
-[![GitHub](https://img.shields.io/badge/@AAYUSH412-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AAYUSH412)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://aayush-vaghela.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushvaghela412@gmail.com)
-
-<br/>
-
-If this project helped you, please give it a ⭐
-
-[![Star](https://img.shields.io/github/stars/AAYUSH412/Real-Estate-Website?style=for-the-badge&logo=github&color=FFD700)](https://github.com/AAYUSH412/Real-Estate-Website)
-
-</div>
+GitHub: 
+https://github.com/chevellapraneethreddy  
+Email: chevellapraneethreddy46@gmail.com
 
 <br/>
 

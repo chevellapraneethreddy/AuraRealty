@@ -14,7 +14,7 @@ permissions:
   packages: write
 
 env:
-  IMAGE: ghcr.io/aayush412/aurarealty-api
+  IMAGE: ghcr.io/chevellapraneethreddy/aurarealty-api
   AZURE_WEBAPP_NAME: aurarealty-api-prod
 
 jobs:

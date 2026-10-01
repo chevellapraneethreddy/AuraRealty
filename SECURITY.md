@@ -12,7 +12,7 @@
 We take the security of AuraRealty seriously. If you believe you've found a security vulnerability, please follow these steps:
 
 1. **Do not disclose the vulnerability publicly**
-2. 
+2. **Email the details to chevellapraneethreddy46@gmail.com**
    - Include a description of the vulnerability
    - Steps to reproduce the issue
    - Potential impact

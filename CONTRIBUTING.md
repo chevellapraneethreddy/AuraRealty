@@ -100,6 +100,6 @@ There are several ways you can contribute to the AuraRealty project:
 
 ## Questions?
 
-Feel free to [open an issue](https://github.com/AAYUSH412/Real-Estate-Website/issues) or reach out at **aayushvaghela12@gmail.com**.
+Feel free to [open an issue](https://github.com/chevellapraneethreddy/AuraRealty/issues) or reach out at **chevellapraneethreddy46@gmail.com**.
 
 Thank you for contributing to AuraRealty!

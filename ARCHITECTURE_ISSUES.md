@@ -1,7 +1,7 @@
 # AuraRealty - Architecture Issues Document
 
 > **Project:** Real Estate Website (AuraRealty)
-> **GitHub:** [github.com/AAYUSH412/Real-Estate-Website](https://github.com/AAYUSH412/Real-Estate-Website)
+> **GitHub:** [github.com/chevellapraneethreddy/AuraRealty](https://github.com/chevellapraneethreddy/AuraRealty)
 > **Type:** Open-source project
 > **Structure:** Monorepo with 3 apps - `admin/`, `backend/`, `frontend/`
 > **Generated:** March 2026
