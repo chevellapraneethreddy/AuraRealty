@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Auth flows — no crawl value
+Disallow: /signin
+Disallow: /signup
+Disallow: /forgot-password
+Disallow: /reset/
+Disallow: /verify-email/
+
+# Authenticated-only pages
+Disallow: /dashboard
+Disallow: /my-listings
+Disallow: /add-property
+
+Sitemap: https://aurarealty.io/sitemap.xml
+
+# AI crawler context file
+# https://aurarealty.io/llms.txt

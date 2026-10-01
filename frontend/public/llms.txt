@@ -1,0 +1,38 @@
+# AuraRealty — Next-Generation AI Real Estate & Intelligent Living
+
+> AuraRealty empowers homebuyers, investors, and developers to explore residential and commercial properties globally with neural property search, market valuation analysis, and autonomous listing synthesis.
+
+## What AuraRealty Is
+
+AuraRealty is an AI-first real estate and architectural intelligence platform. Users search for luxury apartments, contemporary villas, penthouses, and estates using conversational natural language, backed by multimodal analysis and algorithmic investment metrics.
+
+## Core Features
+
+- **AI Property Search**: Intuitive natural language queries powered by high-capacity reasoning models. Real-time scraping and indexing of active market inventory.
+- **Location & Yield Analytics**: Autonomous trend prediction, neighborhood appreciation signals, and micro-market analysis.
+- **Direct Listing Portal**: Verified homeowners and premier agencies showcase properties with verified credentials.
+- **Concierge Viewings**: Instant reservation and scheduling of private tours.
+- **Admin Command Center**: Complete property verification and platform intelligence suite.
+
+## Global Coverage
+
+New York, San Francisco, London, Dubai, Singapore, Mumbai, Bangalore, New Delhi
+
+## Property Classifications
+
+Architectural Villas, Penthouses, Designer Lofts, Waterfront Estates, Ultra-Modern Residences
+
+## Technology Stack
+
+- Frontend: React 18 + TypeScript + Vite
+- Backend: Node.js + Express + MongoDB
+- AI Reasoning: Multimodal LLM Architecture
+- Auth: JWT + Secure httpOnly Refresh Tokens
+
+## Links
+
+- Website: https://aurarealty.io
+- Properties: https://aurarealty.io/properties
+- AI Hub: https://aurarealty.io/ai-hub
+- About: https://aurarealty.io/about
+- Contact: https://aurarealty.io/contact
